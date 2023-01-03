@@ -1,2 +1,2 @@
 # terraform-alpha1
-Repo created for terraform script
+Repo created for terraform script. Manually made changes
